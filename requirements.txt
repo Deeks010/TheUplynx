@@ -5,3 +5,8 @@ langchain
 PyPDF2
 faiss-cpu
 langchain_google_genai
+string
+pandas 
+numpy
+tensorflow_hub
+flask
