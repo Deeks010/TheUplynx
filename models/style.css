@@ -1,0 +1,12 @@
+body {
+    background-color: #e6f2ea;
+}
+
+/* Add this to your style.css file */
+
+div.css-18e3th9:nth-child(2) > div > textarea {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    resize: vertical; /* Allow vertical resizing */
+}
