@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 
 import './Login.css'
-import logo2 from './inv.jpg'
+import logo2 from './background.jpg'
 // const cartcont=createContext();
 function Login() {
   
@@ -30,7 +30,7 @@ return (<>
             <img className="imgg"src={logo2}/>
 
           </div>
-          <div className='secondContainer'>
+          <div className='secondContainer1'>
               <h2 className='head' 
               
             >Login</h2>

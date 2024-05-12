@@ -35,36 +35,36 @@ function Profile() {
         <div className='saicard'>
         <div className='blackdiv'>
             <a className='fas fa-home'></a>
-            <h3>56.4k</h3>
-            <p>Customer</p>
+            <h3 style={{marginLeft:"4.6rem"}}>15</h3>
+            <p>No.of Companies Invested</p>
         </div>
         <div className='blackdiv'>
             <a className='fas fa-home'></a>
-            <h3>56.4k</h3>
-            <p>Customer</p>
+            <h3 style={{marginLeft:"3rem"}}>$1.6M</h3>
+            <p style={{marginLeft:"1.4rem"}}>Total Investment</p>
         </div>
-        <div className='blackdiv'>
+        {/* <div className='blackdiv'>
             <a className='fas fa-home'></a>
             <h3>56.4k</h3>
             <p>Customer</p>
-        </div>
+        </div> */}
         </div>
         <div className='saicard'>
         <div className='blackdiv'>
             <a className='fas fa-home'></a>
-            <h3>56.4k</h3>
-            <p>Customer</p>
+            <h3 style={{marginLeft:"4rem"}}>$100k</h3>
+            <p style={{marginLeft:"1rem"}}>Average Investment</p>
         </div>
         <div className='blackdiv'>
             <a className='fas fa-home'></a>
-            <h3>56.4k</h3>
-            <p>Customer</p>
+            <h3 style={{marginLeft:"4rem"}}>75%</h3>
+            <p style={{marginLeft:"2rem"}}>Succes Rate</p>
         </div>
-        <div className='blackdiv'>
+        {/* <div className='blackdiv'>
             <a className='fas fa-home'></a>
             <h3>56.4k</h3>
             <p>Customer</p>
-        </div>
+        </div> */}
         </div>
 
     </div>

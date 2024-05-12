@@ -5,7 +5,7 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-
+import Dummy from "./Components/Dummy/Dummy";
 import Store from "./Components/Store/Store";
 import Login from "./Components/Login/Login";
 import Founder from "./Components/Founder/Founder";
@@ -33,6 +33,7 @@ function App() {
   //   </div>)
 
   // }
+  
   return (
     <BrowserRouter>
       <Routes>

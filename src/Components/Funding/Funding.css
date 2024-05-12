@@ -3,6 +3,9 @@
     /* width:100%; */
 }
 .fundbdy{
+    /* height: 100vh;  */
+    background: url('../Login/wh.jpg') center no-repeat;
+    background-size: cover;
     margin-right: 9rem;
     max-height: 90vh;
 }

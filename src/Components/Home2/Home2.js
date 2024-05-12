@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 
 import './Home2.css'
-import logo2 from './inv.jpg'
+import logo2 from './background.jpg'
 // const cartcont=createContext();
-function Home2(setChoose) {
+function Home2() {
   
 
 //  const [email,setEmail]=useState("")
@@ -23,10 +23,10 @@ useEffect(()=>{
 
 // }
 // const[choose,setChoose]=useState("")
-const handlechoose=(e)=>{
-    setChoose(e.target.value)
+// const handlechoose=(e)=>{
+//     setChoose(e.target.value)
     
-}
+// }
 return (<>
  
     <div className='bodyy'>

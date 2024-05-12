@@ -46,8 +46,8 @@
     padding-left: 4rem;
     /* margin-left: rem; */
     border-radius: 7px;
-    width:14%;
-    height:14vh;
+    width:20%;
+    height:17vh;
     color:#000000;
     margin-left: 2rem;
 }
@@ -55,11 +55,14 @@
     /* margin-top: -5rem; */
 
 .blackdiv h3{
-    margin-left: 1rem;
+    margin-left: 2rem;
     margin-top: -2rem;
+    /* margin-top: rem; */
+    /* margin-bottom: -1rem; */
 }
 .saicard{
     display: flex;
     justify-content: space-around;
     margin-top: 2rem;
 }
+

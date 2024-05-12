@@ -27,26 +27,26 @@ function Portfolio() {
             <div className='syndcards'>
                 <div>
                     <img className='realimage' src={logo9}/>
-                    <h3>Syndicates</h3>
-                    <p>Invest directly into startups alongside top VCs</p>
+                    <h3>Return of Investment</h3>
+                    <p>Tool to estimate ROI of Projects</p>
                     <button className='bbtn'>Browse</button>
                 </div>
                  <div>
                     <img className='realimage' src={logo10}/>
-                    <h3>Venture Funds</h3>
-                    <p>Browse and apply to invest in venture funds</p>
+                    <h3>Risk Assestment</h3>
+                    <p>Calculates the Risk of Project </p>
                     <button  className='bbtn'>Browse</button>
                 </div>
                 <div>
                     <img className='realimage' src={logo11}/>        
-                    <h3>Rolling Funds</h3>
-                    <p>Subscribe quarterly and adjust your investment size as your goals evolve </p>
+                    <h3>Impact</h3>
+                    <p>Calculate the social impact of the project </p>
                     <button  className='bbtn'>Browse</button>
                 </div>
                 <div>
                     <img className='realimage' src={logo12}/>
-                    <h3>Wishlist</h3>
-                    <p>Build your investing wishlist and we’ll notify you if there’s an opportunity </p>
+                    <h3>To-Do-List</h3>
+                    <p>Handle personalized things according to our preferences</p>
                     <button  className='bbtn'>Browse</button>
                 </div>
             </div>
